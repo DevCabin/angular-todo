@@ -1,11 +1,19 @@
 {
-  "name": "package.json",
+  "name": "angular-todo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeldaguy2645/angular-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zeldaguy2645/angular-todo/issues"
+  },
+  "homepage": "https://github.com/Zeldaguy2645/angular-todo#readme",
+  "description": ""
 }
